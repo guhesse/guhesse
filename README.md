@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gustavo Hesse</h1>
 <h3 align="center">A passionate Motion designer and Digital Producer from Brazil</h3>
 
-🔭 I’m currently working on **As Sr. Digital Producer at VMLY&R on Dell Technologies team.**
+🔭 I’m currently working as **Sr. Digital Producer at VMLY&R on Dell Technologies team.**
 
-🌱 I’m currently learning **React by myself and Youtub & UX/UI with a Google Course.**
+🌱 I’m currently learning **React by myself and Youtube & UX/UI with a Google Course.**
 
 👨‍💻 All of my projects are available at [https://gustavohesse.com.br/](https://gustavohesse.com.br/)
 
-💬 Ask me about **SCSS,React & JavaScript.**
+💬 Ask me about **SCSS, React & JavaScript.**
 
 📫 How to reach me **hesse.gustavo@gmail.com**
-
-📄 Know about my experiences [https://www.linkedin.com/in/guhesse/](https://www.linkedin.com/in/guhesse/)
 
 ⚡ Fun fact **I do an amazing Broccoli Strogonoff!**
 
