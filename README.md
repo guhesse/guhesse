@@ -3,9 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando CS50J em Havard University.
+- 💼 Trabalhando como Front-end, Web Designer e Produtor Digital na VML | Dell Tecnologies.
 
 ## Minhas Skills
 
@@ -55,31 +54,10 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-guhesse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-hesse.gustavo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/guhesse)
 
-
-<h1 align="center">Hi 👋, I'm Gustavo Hesse</h1>
-<h3 align="center">A passionate Motion designer and Digital Producer from Brazil</h3>
-
-🔭 I’m currently working as **Sr. Digital Producer at VMLY&R on Dell Technologies team.**
-
-🌱 I’m currently learning **React by myself and Youtube & UX/UI with a Google Course.**
-
-👨‍💻 All of my projects are available at [https://gustavohesse.com.br/](https://gustavohesse.com.br/)
-
-💬 Ask me about **SCSS, React & JavaScript.**
-
-📫 How to reach me **hesse.gustavo@gmail.com**
-
-⚡ Fun fact **I do an amazing Broccoli Strogonoff!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/guhesse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guhesse" height="20" width="30" /></a>
-<a href="https://www.behance.net/gushesse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gushesse" height="20" width="30" /></a>
-</p>
 
 [![guhesse](https://github-readme-stats.vercel.app/api/top-langs/?username=guhesse&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
