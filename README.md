@@ -15,16 +15,16 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node JS](https://img.shields.io/badge/-React-333333?style=flat&logo=node-js)
 
 **Frameworks e Bibliotecas**
-![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=gsap)
+
+![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=greensock)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
 ![React Router](https://img.shields.io/badge/-React_Router-333333?style=flat&logo=react-router)
 ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Axios](https://img.shields.io/badge/-axios-333333?style=flat&logo=axios)
-
+![Node JS](https://img.shields.io/badge/-React-333333?style=flat&logo=node-js)
 
 **DevOps**
 
@@ -35,6 +35,9 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=007ACC)
+![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=007ACC)
+![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=excel&logoColor=007ACC)
 
 **Ferramentas de design**
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
