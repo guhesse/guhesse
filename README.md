@@ -39,6 +39,7 @@
 ![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=007ACC)
 
 **Ferramentas de design**
+
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333333?style=flat&logo=Adobe%20Photoshop&logoColor=007ACC)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-333333?style=flat&logo=Adobe%20Illustrator&logoColor=007ACC)
