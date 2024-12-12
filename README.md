@@ -19,7 +19,7 @@
 <a href="https://www.behance.net/gushesse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gushesse" height="20" width="30" /></a>
 </p>
 
-[![guhesse](https://github-readme-stats.vercel.app/api/top-langs/?username=guhesse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![guhesse](https://github-readme-stats.vercel.app/api/top-langs/?username=guhesse&layout=compact&theme=Tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
