@@ -20,8 +20,8 @@
 ![React Router](https://img.shields.io/badge/-React_Router-333333?style=flat&logo=react-router)
 ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![Axios](https://img.shields.io/badge/-axios-333333?style=flat&logo=axios)
-![Node JS](https://img.shields.io/badge/-React-333333?style=flat&logo=node-js)
+![Axios](https://img.shields.io/badge/-Axios-333333?style=flat&logo=axios)
+![Node JS](https://img.shields.io/badge/-Node%20JS-333333?style=flat&logo=nodedotjs)
 
 **DevOps**
 
@@ -40,7 +40,7 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333333?style=flat&logo=Adobe%20Photoshop&logoColor=007ACC)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-333333?style=flat&logo=Adobe%20Illustrator&logoColor=007ACC)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-333333?style=flat&logo=Adobe%20after%20effects&logoColor=007ACC)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-333333?style=flat&logo=Adobe%20after%20effects&logoColor=007ACC)
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-333333?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=007ACC)
 
 
