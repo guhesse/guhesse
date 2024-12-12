@@ -48,9 +48,7 @@
 
 <br/>
 
-<a href="https://github.com/guhesse" title="Perfil do Gustavo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guhesse&theme=tokyonight&show_icons=true" />
-</a>
+[![guhesse](https://github-readme-stats.vercel.app/api/top-langs/?username=guhesse&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
@@ -59,5 +57,5 @@
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/guhesse)
 
 
-[![guhesse](https://github-readme-stats.vercel.app/api/top-langs/?username=guhesse&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
