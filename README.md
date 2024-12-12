@@ -19,11 +19,11 @@
 
 **Frameworks e Bibliotecas**
 ![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=react)
-![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=react)
-![React Router](https://img.shields.io/badge/-React_Router-333333?style=flat&logo=react)
-![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=react)
-![Axios](https://img.shields.io/badge/-axios-333333?style=flat&logo=react)
+![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
+![React Router](https://img.shields.io/badge/-React_Router-333333?style=flat&logo=react-router)
+![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Axios](https://img.shields.io/badge/-axios-333333?style=flat&logo=axios)
 
 
 **DevOps**
