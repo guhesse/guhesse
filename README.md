@@ -15,11 +15,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node JS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node JS](https://img.shields.io/badge/-React-333333?style=flat&logo=node-js)
 
 **Frameworks e Bibliotecas**
-![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=react)
-![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
+![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=gsap)
+![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
 ![React Router](https://img.shields.io/badge/-React_Router-333333?style=flat&logo=react-router)
 ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
