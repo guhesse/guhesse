@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando CS50J em Havard University.
+- 🎓 Estudando CS50W em Havard University.
 - 💼 Trabalhando como Front-end, Web Designer e Produtor Digital na VML | Dell Tecnologies.
 
 ## Minhas Skills
