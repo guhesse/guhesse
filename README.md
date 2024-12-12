@@ -9,12 +9,22 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Tecnologias**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node JS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+**Frameworks e Bibliotecas**
+![GSAP](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=react)
+![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=react)
+![React Router](https://img.shields.io/badge/-React_Router-333333?style=flat&logo=react)
+![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=react)
+![Axios](https://img.shields.io/badge/-axios-333333?style=flat&logo=react)
+
 
 **DevOps**
 
@@ -25,8 +35,14 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+**Ferramentas de design**
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333333?style=flat&logo=Adobe%20Photoshop&logoColor=007ACC)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-333333?style=flat&logo=Adobe%20Photoshop&logoColor=007ACC)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-333333?style=flat&logo=Adobe%20Photoshop&logoColor=007ACC)
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-333333?style=flat&logo=Adobe%20Photoshop&logoColor=007ACC)
+
 
 <br/>
 
