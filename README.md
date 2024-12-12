@@ -55,7 +55,3 @@
 [![Linkedin](https://img.shields.io/badge/-guhesse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guhesse/)](https://www.linkedin.com/in/guhesse/)
 [![Gmail Badge](https://img.shields.io/badge/-hesse.gustavo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hesse.gustavo@gmail.com)](mailto:hesse.gustavo@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/guhesse)
-
-
-
-
